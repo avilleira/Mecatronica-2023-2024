@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (1:1.3+202307231459+0e150ed6c4)"
+   sodipodi:docname="constrcuting function.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.72693603"
+     inkscape:cx="396.87124"
+     inkscape:cy="231.10699"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <path
+       id="path1"
+       style="fill:none;stroke:#000000;stroke-width:1"
+       d="m 132.49476,84.165922 c -20.4823,1.073502 -18.42907,0.655135 -23.94691,3.686904 -0.59689,6.173276 5.80318,28.233944 23.04257,44.879644 11.75052,-15.92045 27.18067,-33.11517 25.88542,-45.225736 -10.25703,-5.140597 -21.21785,-3.339376 -24.98108,-3.340812 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="path5"
+       style="fill:none;stroke:#000000;stroke-width:1"
+       d="M 58.976762,16.202112 A 37.283741,29.706497 0 0 0 21.69325,45.908826 37.283741,29.706497 0 0 0 58.976762,75.615023 37.283741,29.706497 0 0 0 93.46613,57.021326 H 33.766931 V 34.034098 H 93.142118 A 37.283741,29.706497 0 0 0 58.976762,16.202112 Z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Documentación"
+     style="display:inline">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1"
+       id="rect5"
+       width="76.62001"
+       height="51.777618"
+       x="179.43073"
+       y="26.543661" />
+  </g>
+</svg>
