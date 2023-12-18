@@ -7,3 +7,7 @@
 Este texto está en *cursiva*  
 Este texto está en **negrita**
 
+- [] Cuadro sin marcar
+- [x] Cuadro marcado
+
+
